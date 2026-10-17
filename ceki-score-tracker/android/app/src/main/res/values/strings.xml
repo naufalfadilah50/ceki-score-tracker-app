@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CEKI GA PAL?</string>
+    <string name="title_activity_main">CEKI GA PAL?</string>
+    <string name="package_name">com.nopal.ceki</string>
+    <string name="custom_url_scheme">com.nopal.ceki</string>
+</resources>
